@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\bin\Debug\GenerateTheFileAndWrite.exe.config
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\bin\Debug\GenerateTheFileAndWrite.exe
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\bin\Debug\GenerateTheFileAndWrite.pdb
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.Form1.resources
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.exe
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.pdb
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\-\GenerateTheFileAndWrite\bin\Debug\GenerateTheFileAndWrite.exe.config
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\-\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.exe
+C:\Users\Administrator\Desktop\GenerateTheFileAndWrite\-\GenerateTheFileAndWrite\obj\Debug\GenerateTheFileAndWrite.pdb
